@@ -1,4 +1,4 @@
 name: SQL Attack
-  challenges: 
-    - id: vulnerability
-      name: Vulnerability
+challenges: 
+  - id: vulnerability
+    name: Vulnerability
