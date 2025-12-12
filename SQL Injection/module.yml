@@ -1,5 +1,4 @@
 name: SQL Injection
 challenges: 
 - id: sql-attack
-  - name: SQL Attack
-
+  name: SQL Attack
