@@ -1,10 +1,10 @@
 id: sql-attack
 name: SQL Attack
-type: challenge
+type: example
 image: pwncollege/challenge-legacy:latest
 modules:
   - id: sql-attack
-  name: SQL Attack
+    name: SQL Attack
     description: 
       Your company is vulnerable to attack! Find the weakness and secure your company!
     challenges:
