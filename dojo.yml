@@ -1,0 +1,12 @@
+id: sql-attack
+name: SQL Attack
+type: challenge
+image: pwncollege/challenge-legacy:latest
+modules:
+  - id: sql-attack
+  name: SQL Attack
+    description: 
+      Your company is vulnerable to attack! Find the weakness and secure your company!
+    challenges:
+      - id: vulnerability
+        name: Vulnerability    
