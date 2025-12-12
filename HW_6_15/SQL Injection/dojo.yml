@@ -9,4 +9,4 @@ modules:
       Your company is vulnerable to attack! Find the weakness and secure your company!
     challenges:
       - id: vulnerability
-        name: Vulnerability
+        name: Vulnerability    
