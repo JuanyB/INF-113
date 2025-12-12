@@ -1,5 +1,0 @@
-chmod 888 /challenge/injection-attack
-chmod 3235 /challenge/checker
-
-rm /challenge/.init
-
