@@ -1,0 +1,12 @@
+id: SQL-Injection
+name: SQL Injection
+type: challenge
+image: pwncollege/challenge-legacy:latest
+modules:
+  - id: SQL Injection
+    name: SQL Injection
+    description: >
+      Your company is vulnerable to attack! Find the weakness and secure your company!
+    challenges:
+      - id: sql-attack
+        name: SQL Attack
